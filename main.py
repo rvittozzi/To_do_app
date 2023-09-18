@@ -88,5 +88,5 @@ def update_clock():
     root.after(1000, update_clock)
 
 update_clock()
-
+# run loop
 root.mainloop()
